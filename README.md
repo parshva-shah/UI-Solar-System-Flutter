@@ -5,8 +5,7 @@ UI Challenge of making a flutter app on Solar System giving its details.
 ## ScreenShots
 
 <p align="center">
-  <img src="https://github.com/parshva-shah/UI-Solar-System/blob/main/Android%20Emulator%20-%20Pixel_4_Edited_API_29_5554%2001-03-2021%2011_34_23%20AM.png" width="250" title="hover text">
-  <img src="https://github.com/parshva-shah/UI-Solar-System/blob/main/Android%20Emulator%20-%20Pixel_4_Edited_API_29_5554%2001-03-2021%2011_34_27%20AM.png" width="250" title="hover text">
+  <img src="https://github.com/parshva-shah/UI-Solar-System/blob/main/UI%20Challenge%20-%20Solar%20System.png" width="250" title="hover text">
 </p>
 
 ## Getting Started
