@@ -1,6 +1,6 @@
 # UI-Solar-System
 
-UI Challenge of making a flutter app on Exploring the Solar System with some detials and images of planets.
+UI Challenge of making a flutter app on Exploring the Solar System with some details and images of planets.
 
 ## ScreenShots
 
